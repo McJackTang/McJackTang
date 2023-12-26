@@ -1,6 +1,6 @@
 Hi there 👋, I'm Jack Tang 😁.
 
-- 💼 I am a student researcher at Tsinghua University🎓. I have done research in the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/), [Global Innovation Exchange](https://gix.uw.edu/), [Future Lab](https://thfl.tsinghua.edu.cn/en/), and [School of Vehicle and Mobility](http://www.svm.tsinghua.edu.cn/). I used to be a researcher at Tsinghua-Toyota AI Center. I am now internship at [Zhipu AI](https://www.zhipuai.cn/en/) ChatGLM Group. I enjoy working with academia and industry.
+- 💼 I am a student researcher at Tsinghua University🎓. I have done research in the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/), [Global Innovation Exchange](https://gix.uw.edu/), [Future Lab](https://thfl.tsinghua.edu.cn/en/), and [School of Vehicle and Mobility](http://www.svm.tsinghua.edu.cn/). I used to be a researcher at Tsinghua-Toyota AI Center and  research internship at [Zhipu AI](https://www.zhipuai.cn/en/) ChatGLM Group. I enjoy working with academia and industry.
 
 - 🔭 My research interests include `Remote Physiological Sensing`, `Affective Computing`, `Human-Computer Interaction(HCI)`, `Large Language Model`, and `Computer Vision`. I’m currently working on Biosensing, HCI, and LLM.  
  
