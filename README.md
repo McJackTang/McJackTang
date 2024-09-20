@@ -4,7 +4,7 @@ Hi there 👋, I'm Jack Tang 😁.
 
 - 🔭 My research interests include `Remote Physiological Sensing`, `Affective Computing`, `Human-Computer Interaction(HCI)`, `Large Language Model`, and `Computer Vision`. I’m currently working on Biosensing, HCI, and LLM.  
  
-- 📫 Reach me through `tjk19@mails.tsinghua.edu.cn` if interested.  
+- 📫 Reach me through `tjk24@mails.tsinghua.edu.cn` if interested.  
 
 
 
