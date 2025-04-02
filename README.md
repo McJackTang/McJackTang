@@ -1,11 +1,12 @@
 Hi there 👋, I'm Jack Tang 😁.
 
-- 💼 I am a student researcher at Tsinghua University🎓. I have done research in the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/), [Global Innovation Exchange](https://gix.uw.edu/), [Future Lab](https://thfl.tsinghua.edu.cn/en/), and [School of Vehicle and Mobility](http://www.svm.tsinghua.edu.cn/). I used to be a researcher at the Tsinghua-Toyota AI Center and a  research intern at ANT Group. I enjoy working with academia and industry.
+- 💼 I am a CS+HCI+Health researcher at Tsinghua University🎓. I have done research in the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/), [Global Innovation Exchange](https://gix.uw.edu/), [Future Lab](https://thfl.tsinghua.edu.cn/en/), and [School of Vehicle and Mobility](http://www.svm.tsinghua.edu.cn/). I was a researcher at the Tsinghua-Toyota AI Center and a  research intern at ANT Group. I enjoy working with academia and industry.
 
 - 🔭 My research interests include `Physiological Sensing`, `Ubiquitous Computing`, `Human-Computer Interaction(HCI)`, `Large Language Model`, and `Computer Vision`. I’m currently working on Biosensing, HCI, and LLM.  
  
-- 📫 Reach me through `tjk24@mails.tsinghua.edu.cn` if interested.  
-
+- 📫 Reach me through `tjk24@mails.tsinghua.edu.cn` if interested.
+  
+![](https://komarev.com/ghpvc/?username=McJackTang&label=PROFILE+VIEWS)
 
 
 <!--- 👯 I’m looking to collaborate on  -->
@@ -18,7 +19,7 @@ Hi there 👋, I'm Jack Tang 😁.
 
 
 <details>
-<summary>More about me</summary>
+<summary>More about me on https://mcjacktang.github.io/</summary>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mcjacktang" alt="mcjacktang" /></a> </p>
 
