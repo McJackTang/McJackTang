@@ -4,7 +4,7 @@ Hi there 👋, I'm Jack Tang 😁.
 
 - 🔭 My research interests include `Physiological Sensing`, `Ubiquitous Computing`, `Human-Computer Interaction(HCI)`, `Large Language Model`, and `Computer Vision`. I’m currently working on Biosensing, HCI, and LLM.  
  
-- 📫 Reach me through `tjk24@mails.tsinghua.edu.cn` if interested.
+- 📫 Reach me through `tjk24 at mails.tsinghua.edu.cn` if interested.
   
 ![](https://komarev.com/ghpvc/?username=McJackTang&label=PROFILE+VIEWS)
 
@@ -33,4 +33,5 @@ Hi there 👋, I'm Jack Tang 😁.
 
 
 </details>
+
 
